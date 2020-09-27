@@ -1,9 +1,6 @@
 
-Code
 Linear Regression :
 Linear Regressoin is the most basic and popular algorithm of machine learning. It is supervised machine learning algorithm which is predicted output is real values/continuous. Or, Relationship between input/independent variables and single output/dependent variable. We will get linear regression image look like : -
-
-image
 
 Objective :
 To make a simple linear regression model operating on one variable from scratch using statistical formulas
